@@ -1,0 +1,6 @@
+pretrained:
+  model: google/bert_uncased_L-2_H-128_A-2
+  tokenizer: google/bert_uncased_L-2_H-128_A-2
+output_classes: 2
+trained:
+  model_uri: runs:/3e7080fe13374e9da7706f92d120f333/classification_model
