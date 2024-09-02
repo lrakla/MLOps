@@ -136,3 +136,6 @@ multirun/
 
 # models
 project/models/
+
+#secrets
+secrets.txt
